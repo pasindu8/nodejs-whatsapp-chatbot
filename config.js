@@ -2,7 +2,7 @@ module.exports = {
     // API endpoint URL
     apiUrl: "https://gate.whapi.cloud",
     // API token from your channel
-    token: "YOUR CHANNEL TOKEN",
+    token: "IPF0kWGBGXnXvgb2z3NVCMngnxlsquei",
 // The ID of the group to which we will send the message. Use to find out the ID: https://whapi.readme.io/reference/getgroups
     group: '120363167596599603@g.us',
 // The ID of the product we will send for the example. Create a product in your WhatsApp and find out the product ID: https://whapi.readme.io/reference/getproducts
